@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">go first</string>
+    <string name="text1">"先攻後攻決め"</string>
+    <string name="text2_1">"まだ決まってない"</string>
+    <string name="text2_2">"先攻"</string>
+    <string name="text2_3">"後攻"</string>
+    <string name="text3_1">"スタート"</string>
+    <string name="text3_2">"リセット"</string>
+</resources>
